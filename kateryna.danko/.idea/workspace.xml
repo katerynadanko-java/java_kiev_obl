@@ -30,7 +30,16 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10e2a717-a23a-40fb-92ce-848155fb21b2" name="Default Changelist" comment="" />
+    <list default="true" id="10e2a717-a23a-40fb-92ce-848155fb21b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kateryna.danko.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_2/lesson_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610287830179</updated>
-      <workItem from="1610287831588" duration="2404000" />
+      <workItem from="1610287831588" duration="2928000" />
     </task>
     <servers />
   </component>
